@@ -1,5 +1,6 @@
 #代码使用说明<br>
-HPGCN算法是基于GCN模型(https://github.com/tkipf/gcn),TCMSP,ETCM数据等进行中药药性（寒热）预测的算法模型.具体使用方法如下：
+HPGCN算法是基于GCN模型(https://github.com/tkipf/gcn)
+以及TCMSP,ETCM数据等进行中药药性（寒热）预测的算法模型.具体使用方法如下：
 
 ##1 特征选择<br>
 featureselect.py主要用于模型特征选择
