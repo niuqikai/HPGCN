@@ -83,7 +83,7 @@ def load_data(file_par, parti, path="./herb_class/", dataset="cora"):
     part1 = list(range(0,64))
     part2 = list(range(64,128))
     part3 = list(range(128,192))
-    part4 = list(range(192,318))
+    part4 = list(range(192,255))
     part5 = list(range(255,318))
     #part5 = list(range(318,568))
 
